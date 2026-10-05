@@ -1,4 +1,4 @@
-# Design Nodes & Reasoning
+# Design Notes & Reasoning
 
 ## Overview
 
