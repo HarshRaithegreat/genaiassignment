@@ -2,7 +2,7 @@
 
 ## Overview
 
-A single-notebook (`yourname.ipynb` — rename to `<yourname>.ipynb`) GenAI/agentic prototype that reviews travel-reimbursement claims against the Appendix A policy and returns `APPROVE`, `PARTIAL_APPROVE`, `REJECT` or `MANUAL_REVIEW`.
+A single-notebook (`harshrai.ipynb`) GenAI/agentic prototype that reviews travel-reimbursement claims against the Appendix A policy and returns `APPROVE`, `PARTIAL_APPROVE`, `REJECT` or `MANUAL_REVIEW`.
 
 **Principle:** *LLM = interpretation, orchestration, explanation. Python = deterministic financial / business-rule enforcement.*
 
